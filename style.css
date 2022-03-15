@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav{
+    float:right;
+    height:10em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    
+    padding: 10px;
+    
+}
+ .headhome{ 
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-top:33px;
+    margin-right:55px;
+    
+
+}
+.head-tag{
+    background-color: black;
+
+}
+.login-tag{
+    border:2px solid black;
+    margin:50px;
+    height:15em;
+    width:15em;
+    padding:10px;
+
+}
+.head-login{
+    
+}
+.loghead{
+    margin:25px;
+
+}
+body{
+    background-size:cover ;
+}
+.loginform{
+padding: :50%;
+}
